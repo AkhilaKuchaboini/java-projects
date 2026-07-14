@@ -1,0 +1,16 @@
+# Compiled Java files
+*.class
+
+# VS Code settings
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Log files
+*.log
